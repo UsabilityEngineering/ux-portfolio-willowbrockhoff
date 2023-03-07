@@ -3,7 +3,7 @@
 
 I drive a Volkswagen Cabriolet from 1998. When I purchased the car in 2020, it came with its original stereo. This stereo was easy to use but too outdated to meet my needs. It was equipped with a fully functional casket player but unfortunately, I don’t own any casket tapes. Luckily, I had a cassette adaptor that let me use an aux cord to play music from my phone, but when I updated my phone I could no longer use the cassette adapter either.
 
-2 Pictures
+!(stereo.jpeg)
 
 I decided to upgrade and installed a JVC KD-SX27BT stereo to better suit my needs. It is far more complex than the original stereo. Most of the controls aren’t immediately **visible** and are somewhat hard to locate with there being so many options. Nonetheless, I’ve found my JVC stereo to be easy enough to interact with in most scenarios. However, it is still intimidating enough that I put off doing more complex tasks such as changing the settings.
 
