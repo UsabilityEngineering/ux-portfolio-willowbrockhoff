@@ -7,7 +7,7 @@ I drive a Volkswagen Cabriolet from 1998. When I purchased the car in 2020, it c
 
 I decided to upgrade and installed a JVC KD-SX27BT stereo to better suit my needs. It is far more complex than the original stereo. Most of the controls aren’t immediately **visible** and are somewhat hard to locate with there being so many options. Nonetheless, I’ve found my JVC stereo to be easy enough to interact with in most scenarios. However, it is still intimidating enough that I put off doing more complex tasks such as changing the settings.
 
-!{txt}()
+!{txt}(https://github.com/UsabilityEngineering/ux-portfolio-willowbrockhoff/blob/master/j01/IMG_7871%202.MOV)
 
 One issue I’ve run into with my new stereo is that the light coming from it is too bright at night and distracts me while I’m driving. I set out to solve this problem and dim the light and expected to solve it quickly through settings.
 
